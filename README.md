@@ -1,4 +1,4 @@
 # Project-demo
 This is my first git repository.
 <br>
-Author - Richa Singh
+Author - Richa Singh(Coders)
